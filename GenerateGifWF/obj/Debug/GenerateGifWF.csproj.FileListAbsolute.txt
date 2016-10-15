@@ -1,0 +1,10 @@
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\bin\Debug\GenerateGifWF.exe.config
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\bin\Debug\GenerateGifWF.exe
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\bin\Debug\GenerateGifWF.pdb
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\obj\Debug\GenerateGifWF.csprojResolveAssemblyReference.cache
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\obj\Debug\GenerateGifWF.Form1.resources
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\obj\Debug\GenerateGifWF.Properties.Resources.resources
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\obj\Debug\GenerateGifWF.csproj.GenerateResource.Cache
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\obj\Debug\GenerateGifWF.exe
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\obj\Debug\GenerateGifWF.pdb
+C:\Users\Rom54\OneDrive\Documents\Visual Studio 2015\Projects\GenerateGifWF\GenerateGifWF\bin\Debug\Magick.NET-Q16-x64.Native.dll
